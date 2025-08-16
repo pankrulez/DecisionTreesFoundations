@@ -1,0 +1,23 @@
+git clone <path>
+
+touch requirements.txt
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+plotly-express
+pprint
+math
+
+pip install requirements.txt
+
+git add .
+
+git commit -m "Dataset and requirement files added"
+
+git push origin main
+
+

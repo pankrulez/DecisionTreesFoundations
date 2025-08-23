@@ -1,4 +1,5 @@
 # DecisionTreesFoundations
-Machine learning : This repo contains code for Decision Tree using breast cancer dataset
+### Machine learning : 
+This repo contains code for Decision Tree using breast cancer dataset
 ![alt text1](Snaps/pieChart_code.png "Creating interactive Pie chart for diagnosis data") ![alt text2](Snaps/pie_plot.png "Pie plot depicting Malignent & Benign")
 ![alt text3](Snaps/scaling.png "Scaling the data")
